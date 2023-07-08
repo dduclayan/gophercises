@@ -1,3 +1,4 @@
+// Exercise - https://github.com/gophercises/urlshort
 package main
 
 import (
